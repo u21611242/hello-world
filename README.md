@@ -8,3 +8,7 @@ __This will also be bold__
 
 _You *I think you should use an
 `<addr>` element here instead*can** combine them_
+
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
